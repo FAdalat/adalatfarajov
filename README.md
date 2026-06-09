@@ -81,6 +81,7 @@ Led a 5-person team end-to-end: task allocation, technical architecture, system 
 
 **Languages**
 
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
@@ -94,7 +95,7 @@ Led a 5-person team end-to-end: task allocation, technical architecture, system 
 **Design & 3D**
 
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
-![3D Printing](https://img.shields.io/badge/3D_Printing-0d1117?style=flat-square&logo=printables&logoColor=FA6831)
+![Shapr3D](https://img.shields.io/badge/Shapr3D-0d1117?style=flat-square&logo=autodesk&logoColor=0696D7)
 </div>
 
 ---
