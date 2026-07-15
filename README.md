@@ -96,6 +96,11 @@ Led a 5-person team end-to-end: task allocation, technical architecture, system 
 
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Shapr3D](https://img.shields.io/badge/Shapr3D-0d1117?style=flat-square&logo=autodesk&logoColor=0696D7)
+
+**Competitive Programming**
+
+[![Codewars](https://www.codewars.com/users/FAdalat/badges/large)](https://www.codewars.com/users/FAdalat)
+
 </div>
 
 ---
